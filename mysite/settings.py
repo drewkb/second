@@ -25,7 +25,7 @@ SECRET_KEY = 'uv_$!s9s4sw23xt2z1jerc(#xv*3^z$d5yv5p)ii!a&+z_)@gw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['drewkb.pythonanywhere.com']
 
 
 # Application definition
